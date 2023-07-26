@@ -15,7 +15,7 @@
 ### How To Reach Me :
 <p align="center">
 <a href="https://youtube.com/@sentup-gaming8456"><img src="https://img.shields.io/badge/YouTube-ff0000?style=for-the-badge&logo=youtube&logoColor=ff000000&link=https://youtube.com/@sentup-gaming8456" /><br>
-<a href="http://Wa.me/+6281779122444">
+<a href="http://Wa.me/+6289629929193">
     <img src="https://img.shields.io/badge/Wa Pc-electric green?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Whatsapp Badge"/>
 </a>
 </p>
