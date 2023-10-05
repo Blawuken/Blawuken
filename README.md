@@ -16,7 +16,7 @@
 <p align="center">
 <a href="https://youtube.com/@sentup-gaming8456"><img src="https://img.shields.io/badge/YouTube-ff0000?style=for-the-badge&logo=youtube&logoColor=ff000000&link=https://youtube.com/@sentup-gaming8456" /><br>
 <a href="https://chat.whatsapp.com/EfuZCnc9hkk7kiPUouQsOM">
-    <img src="https://img.shields.io/badge/Wa Pc-electric green?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Whatsapp Badge"/>
+    <img src="https://img.shields.io/badge/Wa Gc 1-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 </a>
 </p>
 
