@@ -10,31 +10,12 @@
 - 🇮🇩 Saat ini tinggal di Indonesia, Mojokerto, Jawatimur
 - 👀 Saya tertarik dengan javascript, html, php, cpp, c dan python
 
----
-
-### How To Reach Me :
-<p align="center">
-<a href="https://youtube.com/@sentup-gaming8456"><img src="https://img.shields.io/badge/YouTube-ff0000?style=for-the-badge&logo=youtube&logoColor=ff000000&link=https://youtube.com/@sentup-gaming8456" /><br>
-<a href="https://chat.whatsapp.com/EfuZCnc9hkk7kiPUouQsOM">
-    <img src="https://img.shields.io/badge/Wa Gc 1-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-</a>
-</p>
-
----
-
 ### My Stats :
 <p align="center"><a href="https://github.com/Blawuken/followers"><img title="Followers" src="https://img.shields.io/github/followers/Blawuken?color=red&style=flat-square"></a></p>
 <p align="center"><a href="https://komarev.com/ghpvc/?username=Blawuken&color=blue&style=flat-square&label=Profile+Views"><img title="Watching" src="https://komarev.com/ghpvc/?username=Blawuken&color=green&style=flat-square&label=Profile+View"></a>
 </p>
 <p align="center"><a href="https://github.com/Blawuken"><img src="https://github-readme-stats.vercel.app/api?username=Blawuken&show_icons=true&theme=radical"></a></p>
 <p align="center"><a href="https://github.com/Blawuken"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Blawuken&theme=radical&layout=compact"></a></p>
-
----
-
-### Repo Stats : 
-![github card](https://github-readme-stats.vercel.app/api/pin/?username=Blawuken&repo=NFSbot&theme=radical)
-
----
 
 <details>
     <summary>&#127942 <b>GitHub Awards</b></summary><br/>
