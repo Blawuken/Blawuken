@@ -10,12 +10,12 @@ jobs:
       - uses: lowlighter/metrics@latest
         with:
           token: ${{ secrets.METRICS_TOKEN }}
-          user: oSumAtrIX
+          user: Blawuken
 
           template: classic
           config_display: columns
           base: header, activity, community, repositories
-          commits_authoring: oSumAtrIX
+          commits_authoring: Blawuken
           config_timezone: Europe/Germany
           plugin_achievements: yes
           plugin_achievements_display: detailed
@@ -48,7 +48,7 @@ jobs:
           plugin_lines: yes
           plugin_pagespeed: yes
           plugin_pagespeed_detailed: yes
-          plugin_pagespeed_url: https://osumatrix.me
+          plugin_pagespeed_url: https://Blawuken.me
           plugin_people: yes
           plugin_people_limit: 64
           plugin_people_shuffle: yes
