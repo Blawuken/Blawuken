@@ -4,9 +4,6 @@
     <td align=center>
       <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FBlawuken&icon=github.svg&icon_color=%23FFFFFF&title=hits&edge_flat=false">
       <img src="https://img.shields.io/github/followers/Blawuken">
-      <img src="https://img.shields.io/reddit/user-karma/combined/Blawuken?style=social">
-      <img src="https://img.shields.io/twitter/follow/Blawuken?style=social">
-      <img src="https://img.shields.io/youtube/channel/views/UCk9pnU2BGmIafksQPvTJfuA?style=social">
       <img src="https://img.shields.io/github/stars/Blawuken?style=social">
     </td>
   </tr>
