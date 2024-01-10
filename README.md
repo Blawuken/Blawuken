@@ -18,18 +18,6 @@
   </td>
 </tr>
 <tr>
-  <td>🔭 I am currently working on my skills with front- & backend and on <a href=https://github.com/revanced>ReVanced</a></td>
-</tr>
-<tr>
-  <td>🥇 My current objective is to study computer science at <a href=https://www.uni-augsburg.de>University of Augsburg</a></td>
-</tr>
-<tr>
-  <td>👤 Visit me at <a href=https://Blawuken.me>Blawuken.me</a></td>
-</tr>
-<tr>
-  <td>⚡ I also play drums and guitar</td>
-</tr>
-<tr>
   <td>
     <img src="https://github.com/Blawuken/Blawuken/blob/main/github-metrics.svg" alt="Metrics" width="100%">
   </td>
