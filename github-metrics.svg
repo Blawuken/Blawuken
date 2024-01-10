@@ -659,12 +659,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2 2.5A2.5 2.5 0 014.5 0h8.75a.75.75 0 01.75.75v12.5a.75.75 0 01-.75.75h-2.5a.75.75 0 110-1.5h1.75v-2h-8a1 1 0 00-.714 1.7.75.75 0 01-1.072 1.05A2.495 2.495 0 012 11.5v-9zm10.5-1V9h-8c-.356 0-.694.074-1 .208V2.5a1 1 0 011-1h8zM5 12.25v3.25a.25.25 0 00.4.2l1.45-1.087a.25.25 0 01.3 0L8.6 15.7a.25.25 0 00.4-.2v-3.25a.25.25 0 00-.25-.25h-3.5a.25.25 0 00-.25.25z"/>
                                     </svg>
-                                    <div class="name">
-                                        <span>ReVanced/revanced-patches-template</span>
-                                        <span>starred Nov 13 2023</span>
-                                    </div>
                                 </div>
-                                <div class="field description">👋🧩ReVanced Patches template</div>
                                 <div class="field infos">
                                     <div class="language">
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -1102,10 +1097,6 @@
                                         <span class="issue">#216 feat: Add verified badge to team member card</span>
                                     </div>
                                 </div>
-                                <div class="details">
-                                    <div>opened by Blawuken in <span class="repo">ReVanced/revanced-website</span></div>
-                                    <div class="comment">It would be good if you could look into resolving the todos and push it. I have had my attempts but didn't really succeed in them</div>
-                                </div>
                             </section>
                         </div>
                         <div class="row fill-width">
@@ -1117,15 +1108,6 @@
                                     <div class="content">
                                         Commented on
                                         <span class="issue">#216 feat: Add verified badge to team member card</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>opened by Blawuken in <span class="repo">ReVanced/revanced-website</span></div>
-                                    <div class="comment">
-                                        <i>Okay, fair enough. Maybe in some later day contributors/team/donate would have a different organization but I'm fine with putting them there.</i>
-                                        If you want please open an issue. Open to suggestions :)
-                                        <i>Now on the topic of displaying them, I think it could work better to have a dialog triggered either by a separate button or clicking on the badge instead. What's your opinion on that?</i>
-                                        I think it is expected to hover on the badge to open the tooltip. If a popup were to be shown, a click should be used. On mobile, the badge can be expanded to look like this (with the icon for example):
                                     </div>
                                 </div>
                             </section>
@@ -1140,11 +1122,7 @@
                                         Commented on
                                         <span class="issue">#216 feat: Add verified badge to team member card</span>
                                     </div>
-                                </div>
-                                <div class="details">
-                                    <div>opened by Blawuken in <span class="repo">ReVanced/revanced-website</span></div>
-                                    <div class="comment">a. As referenced in one my previous comment, it is a common security practice. If you trust the domain revanced.app, you can transitively trust keys published there. If someone signs something with one of these keys, you can transitively trust them. An example scenario would be that you can prove in an arbitrary place on the web that you are who you claim to be on revanced.app. Inheritently, the trust chain starts at revanced.app and ends with your sign, which means whoever revanced.app claims this key belongs to is not verifiable without any additional means. Because it is not important who is behind the key, and instead it is only important that you are someone trusted on revanced.app, the keys are published as a verification method.</div>
-                                </div>
+                                </div>l
                             </section>
                         </div>
                         <div class="row fill-width">
@@ -1158,10 +1136,6 @@
                                         <span class="issue">#2604 bug:(YouTube - HIde chapter in video description) Patch is broken</span>
                                     </div>
                                 </div>
-                                <div class="details">
-                                    <div>opened by dekhu48 in <span class="repo">ReVanced/revanced-patches</span></div>
-                                    <div class="comment">Please check which of the toggles is responsible.</div>
-                                </div>
                             </section>
                         </div>
                         <div class="row fill-width">
@@ -1174,10 +1148,6 @@
                                         Commented on
                                         <span class="issue">#2608 bug: Can't login to Joey for Reddit and Sync for Reddit</span>
                                     </div>
-                                </div>
-                                <div class="details">
-                                    <div>opened by alicerrrrs in <span class="repo">ReVanced/revanced-patches</span></div>
-                                    <div class="comment">The issue occurs on Infinity.</div>
                                 </div>
                             </section>
                         </div>

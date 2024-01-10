@@ -1,4 +1,4 @@
-<img src="https://github.com/Blawuken/Blawuken/assets/13122796/2a83da91-9182-47bf-a5ef-68575cdf4ee3">
+<img src="https://github.com/oSumAtrIX/oSumAtrIX/assets/13122796/2a83da91-9182-47bf-a5ef-68575cdf4ee3">
 <table>
   <tr>
     <td align=center>
