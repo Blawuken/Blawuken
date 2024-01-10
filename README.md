@@ -1,32 +1,37 @@
-### About Me :
-
-<p align="center">
-  <img src="https://avatars.githubusercontent.com/u/133786386?v=4" />
-</p>
-
-- 👋 Hai, saya AnggIt
-- ❎ Saya hanya seorang pelajar (masih belajar) 
-- 👨🏻‍🦱 25 tahun
-- 🇮🇩 Saat ini tinggal di Indonesia, Mojokerto, Jawatimur
-- 👀 Saya tertarik dengan javascript, html, php, cpp, c dan python
-
-### My Stats :
-<p align="center"><a href="https://github.com/Blawuken/followers"><img title="Followers" src="https://img.shields.io/github/followers/Blawuken?color=red&style=flat-square"></a></p>
-<p align="center"><a href="https://komarev.com/ghpvc/?username=Blawuken&color=blue&style=flat-square&label=Profile+Views"><img title="Watching" src="https://komarev.com/ghpvc/?username=Blawuken&color=green&style=flat-square&label=Profile+View"></a>
-</p>
-<p align="center"><a href="https://github.com/Blawuken"><img src="https://github-readme-stats.vercel.app/api?username=Blawuken&show_icons=true&theme=radical"></a></p>
-<p align="center"><a href="https://github.com/Blawuken"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Blawuken&theme=radical&layout=compact"></a></p>
-
-<details>
-    <summary>&#127942 <b>GitHub Awards</b></summary><br/>
-
-![Github Trophy](https://github-profile-trophy.vercel.app/?username=Blawuken)
-
-</details>
-
-<details>
-    <summary>&#127942 <b>GitHub Activity</b></summary><br/>
-
-![Metrics](https://metrics.lecoq.io/Blawuken?template=classic&repositories.forks=true&languages=1&languages.colors=github&languages.threshold=0%25&config.timezone=Asia%2FJakarta)
-
-</details> 
+<img src="https://github.com/Blawuken/Blawuken/assets/13122796/2a83da91-9182-47bf-a5ef-68575cdf4ee3">
+<table>
+  <tr>
+    <td align=center>
+      <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FBlawuken&icon=github.svg&icon_color=%23FFFFFF&title=hits&edge_flat=false">
+      <img src="https://img.shields.io/github/followers/Blawuken">
+      <img src="https://img.shields.io/reddit/user-karma/combined/Blawuken?style=social">
+      <img src="https://img.shields.io/twitter/follow/Blawuken?style=social">
+      <img src="https://img.shields.io/youtube/channel/views/UCk9pnU2BGmIafksQPvTJfuA?style=social">
+      <img src="https://img.shields.io/github/stars/Blawuken?style=social">
+    </td>
+  </tr>
+  <tr>
+    <td>
+      My interests and expertise expand from graphics-, motion- and sound design in dedicated software like Adobe Suite and Image-Line FL Studio up to programming in lots of different languages like <b>C#</b>, <b>Rust</b>, <b>Kotlin</b>, <b>Java</b>, <b>PHP</b>, <b>HTML</b>, <b>JavaScript</b>, <b>CSS</b>, <b>MySQL</b>, <b>Objective-C</b>, <b>C</b>, <b>Python</b> and <b>Visual Basic</b>, with the first
+      being my most and last being my least used languages. I mostly use my brief time productively, but if I don't, then I usually play chess, osu!, or Krunker.
+      As a reason of peer pressure, I generally hang around on Discord but maintain daily activity on my email inbox and a couple of other forums.
+  </td>
+</tr>
+<tr>
+  <td>🔭 I am currently working on my skills with front- & backend and on <a href=https://github.com/revanced>ReVanced</a></td>
+</tr>
+<tr>
+  <td>🥇 My current objective is to study computer science at <a href=https://www.uni-augsburg.de>University of Augsburg</a></td>
+</tr>
+<tr>
+  <td>👤 Visit me at <a href=https://Blawuken.me>Blawuken.me</a></td>
+</tr>
+<tr>
+  <td>⚡ I also play drums and guitar</td>
+</tr>
+<tr>
+  <td>
+    <img src="https://github.com/Blawuken/Blawuken/blob/main/github-metrics.svg" alt="Metrics" width="100%">
+  </td>
+</tr>
+</table>
